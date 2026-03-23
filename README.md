@@ -1,19 +1,24 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D0D1A,100:1A1A2E&height=180&section=header&text=ADAM%20HASANI&fontSize=42&fontColor=C9A84C&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=58&descSize=14&descColor=8B8B8B"/>
+<!-- ═══════════════════════════════════════════ -->
+<!--        A D A M   H A S A N I               -->
+<!--        Old Money × Sophisticated            -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D0D1A,60:1A1A2E,100:2A1A0E&height=220&section=header&text=ADAM%20HASANI&fontSize=50&fontColor=C9A84C&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=55&descSize=16&descColor=8B8B8B"/>
 
 <p align="center">
   <a href="https://github.com/adamhasani">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&random=false&width=500&lines=Building+Flora+AI+%26+AR;Crafting+Intelligent+Systems;Turning+Data+Into+Decisions" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&random=false&width=550&lines=Building+Flora+AI+%26+AR;Crafting+Intelligent+Systems;Exploring+Computer+Vision;Turning+Data+Into+Decisions" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adamhasani&label=Visitors&color=2F2F2F&style=flat&labelColor=1A1A1A"/>
+  <img src="https://komarev.com/ghpvc/?username=adamhasani&label=Visitors&color=C9A84C&style=flat&labelColor=0D0D1A"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-C9A84C?style=flat&labelColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/Available%20for%20Collaboration-C9A84C?style=flat&labelColor=0D0D1A"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -27,26 +32,70 @@ class AdamHasani:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">— Tech Stack —</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,tensorflow,pytorch,nextjs,mongodb,git&theme=dark"/>
-</p>
-
----
-
-<h3 align="center">— Analytics —</h3>
+<h3 align="center">— T E C H &nbsp; S T A C K —</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamhasani&show_icons=true&hide_border=true&title_color=C9A84C&icon_color=C9A84C&text_color=8B8B8B&bg_color=0D1117&rank_icon=percentile&include_all_commits=true&count_private=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamhasani&layout=compact&hide_border=true&title_color=C9A84C&text_color=8B8B8B&bg_color=0D1117&langs_count=6" width="320"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python"/>
+  &nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript"/>
+  &nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React"/>
+  &nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub"/>
 </div>
 
----
+<br/>
 
-<h3 align="center">— Connect —</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nextjs,nodejs,mongodb,tailwind,vercel,git,linux,figma&theme=dark"/>
+  </a>
+</p>
+
+<br/>
+
+<h3 align="center">— A C H I E V E M E N T S —</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adamhasani&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h3 align="center">— A N A L Y T I C S —</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adamhasani&show_icons=true&hide_border=true&title_color=C9A84C&icon_color=C9A84C&text_color=8B8B8B&bg_color=0D1117&rank_icon=percentile&include_all_commits=true&count_private=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamhasani&layout=compact&hide_border=true&title_color=C9A84C&text_color=8B8B8B&bg_color=0D1117&langs_count=6" width="340"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamhasani&theme=dark&hide_border=true&background=0D1117&stroke=C9A84C&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=8B8B8B&dates=8B8B8B&currStreakNum=C9A84C&sideNums=C9A84C" width="520"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamhasani&bg_color=0D1117&color=C9A84C&line=C9A84C&point=FFFFFF&area=true&hide_border=true&area_color=C9A84C20" width="100%"/>
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamhasani/adamhasani/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adamhasani/adamhasani/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="snake" src="https://raw.githubusercontent.com/adamhasani/adamhasani/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h3 align="center">— C O N N E C T —</h3>
 
 <p align="center">
   <a href="mailto:adamhasani@email.com">
@@ -57,14 +106,24 @@ class AdamHasani:
     <img src="https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=C9A84C"/>
   </a>
   &nbsp;
-  <a href="https://github.com/adamhasani">
-    <img src="https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=C9A84C"/>
+  <a href="https://twitter.com/adamhasani">
+    <img src="https://img.shields.io/badge/Twitter-1A1A2E?style=for-the-badge&logo=x&logoColor=C9A84C"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/adamhasani">
+    <img src="https://img.shields.io/badge/Discord-1A1A2E?style=for-the-badge&logo=discord&logoColor=C9A84C"/>
   </a>
 </p>
 
----
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:0D0D1A,100:000000&height=80&section=footer"/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2A1A0E,30:1A1A2E,60:0D0D1A,100:000000&height=100&section=footer"/>
 
 <p align="center">
   <sub><i>"Quiet excellence speaks volumes."</i></sub>
