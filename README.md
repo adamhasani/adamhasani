@@ -1,32 +1,5 @@
 
-<h3 align="center">— T E C H &nbsp; S T A C K —</h3>
 
-<!-- Animated Spinning Icons -->
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub"/>
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/>
-</div>
-
-<br/>
-
-<!-- Skill Icons (yang tersedia) -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,gcp,nextjs,nodejs,git,github,vercel&theme=dark"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Badge untuk yang ga ada icon-nya -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=C9A84C&color=1A1A2E"/>
-  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=C9A84C&color=1A1A2E"/>
-  <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=C9A84C&color=1A1A2E"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20Bots-1A1A2E?style=for-the-badge&logo=openai&logoColor=C9A84C"/>
-  <img src="https://img.shields.io/badge/npm-1A1A2E?style=for-the-badge&logo=npm&logoColor=C9A84C"/>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D0D1A,60:1A1A2E,100:2A1A0E&height=220&section=header&text=ADAM%20HASANI&fontSize=50&fontColor=C9A84C&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=55&descSize=16&descColor=8B8B8B"/>
 
