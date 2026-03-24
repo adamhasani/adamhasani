@@ -1,14 +1,38 @@
 
-<!-- ═══════════════════════════════════════════ -->
-<!--        A D A M   H A S A N I               -->
-<!--        Old Money × Sophisticated            -->
-<!-- ═══════════════════════════════════════════ -->
+<h3 align="center">— T E C H &nbsp; S T A C K —</h3>
+
+<!-- Animated Spinning Icons -->
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub"/>
+  &nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/>
+</div>
+
+<br/>
+
+<!-- Skill Icons (yang tersedia) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,gcp,nextjs,nodejs,git,github,vercel&theme=dark"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Badge untuk yang ga ada icon-nya -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=C9A84C&color=1A1A2E"/>
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=C9A84C&color=1A1A2E"/>
+  <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=C9A84C&color=1A1A2E"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20Bots-1A1A2E?style=for-the-badge&logo=openai&logoColor=C9A84C"/>
+  <img src="https://img.shields.io/badge/npm-1A1A2E?style=for-the-badge&logo=npm&logoColor=C9A84C"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D0D1A,60:1A1A2E,100:2A1A0E&height=220&section=header&text=ADAM%20HASANI&fontSize=50&fontColor=C9A84C&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=55&descSize=16&descColor=8B8B8B"/>
 
 <p align="center">
   <a href="https://github.com/adamhasani">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&random=false&width=550&lines=Building+Flora+AI+%26+AR;Crafting+Intelligent+Systems;Exploring+Computer+Vision;Turning+Data+Into+Decisions" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&random=false&width=550&lines=Building+Flora+AI+%26+AR;Crafting+Intelligent+Bots;3D+Modeling+%26+Game+Dev;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -25,7 +49,8 @@
 ```python
 class AdamHasani:
     role     = "Data Science Student"
-    craft    = ["AI/ML", "Computer Vision", "NLP", "AR"]
+    craft    = ["AI/ML", "Bots", "3D Modeling", "Game Dev"]
+    tools    = ["Next.js", "Firebase", "AutoCAD", "Roblox Studio"]
     building = "Flora AI & Flora AR"
     motto    = "Let the work speak."
 ```
@@ -37,34 +62,36 @@ class AdamHasani:
 <h3 align="center">— T E C H &nbsp; S T A C K —</h3>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python"/>
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub"/>
   &nbsp;
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React"/>
-  &nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub"/>
 </div>
 
 <br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nextjs,nodejs,mongodb,tailwind,vercel,git,linux,figma&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,gcp,nextjs,nodejs,git,github,vercel&theme=dark"/>
   </a>
 </p>
 
 <br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AutoCAD-1A1A2E?style=for-the-badge&logo=autodesk&logoColor=C9A84C"/>
+  <img src="https://img.shields.io/badge/SketchUp-1A1A2E?style=for-the-badge&logo=sketchup&logoColor=C9A84C"/>
+  <img src="https://img.shields.io/badge/Roblox%20Studio-1A1A2E?style=for-the-badge&logo=roblox&logoColor=C9A84C"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20Bots-1A1A2E?style=for-the-badge&logo=openai&logoColor=C9A84C"/>
+  <img src="https://img.shields.io/badge/npm-1A1A2E?style=for-the-badge&logo=npm&logoColor=C9A84C"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center">— A C H I E V E M E N T S —</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adamhasani&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&column=7"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center">— A N A L Y T I C S —</h3>
 
