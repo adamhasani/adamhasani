@@ -1,6 +1,4 @@
 
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D0D1A,60:1A1A2E,100:2A1A0E&height=220&section=header&text=ADAM%20HASANI&fontSize=50&fontColor=C9A84C&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=55&descSize=16&descColor=8B8B8B"/>
 
 <p align="center">
