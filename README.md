@@ -32,8 +32,9 @@
 
 ```python
 class AdamHasani:
-    """Data-science student shipping real AI products.
-    Local-first: if it can't run offline, it isn't done."""
+    """Data-science student shipping real AI
+    products. Local-first: if it can't run
+    offline, it isn't done."""
 
     name  = "Adam Hasani"
     based = "Tegal, Central Java, Indonesia"
