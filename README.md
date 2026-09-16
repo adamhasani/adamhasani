@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Tegal%2C%20Indonesia-1A1526?style=for-the-badge&logoColor=C9A84C"/>
   <a href="https://adam-hasani.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1A1526?style=for-the-badge&logo=vercel&logoColor=C9A84C"/></a>
   <a href="https://adam-hasani.vercel.app"><img src="https://img.shields.io/badge/Contact-1A1526?style=for-the-badge&logo=gmail&logoColor=C9A84C"/></a>
-  <a href="https://github.com/adamhasani?tab=followers"><img src="https://img.shields.io/badge/Open_to_Collab-1A1526?style=for-the-badge&logo=githubsponsors&logoColor=C9A84C"/></a>
+  <a href="https://github.com/adamhasani?tab=followers"><img src="https://img.shields.io/badge/Open_to_Collab-1A1526?style=for-the-badge&logo=openai&logoColor=C9A84C"/></a>
 </p>
 
 <br/>
@@ -32,31 +32,29 @@
 
 ```python
 class AdamHasani:
-    """
-    Data-science student building real, shipped AI products.
-    Local-first philosophy: if it can't run offline, it isn't finished.
-    """
+    """Data-science student shipping real AI products.
+    Local-first: if it can't run offline, it isn't done."""
 
-    name     = "Adam Hasani"
-    based    = "Tegal, Central Java, Indonesia"
-    role     = "Data Science Student · AI Engineer (self-taught)"
+    name  = "Adam Hasani"
+    based = "Tegal, Central Java, Indonesia"
+    role  = "Data Science · AI Engineer"
 
     focus = [
         "AI gateways & multi-provider routing",
-        "Computer vision · face-mesh photobooths",
+        "Computer vision · face-mesh booths",
         "Multi-agent autonomous systems",
         "3D modeling & AR experiences",
     ]
 
     stack = {
-        "frontend": ["Next.js", "TypeScript", "Canvas/WebGL"],
-        "backend":  ["Node.js", "Firebase", "Python"],
-        "ML/CV":    ["MediaPipe", "Gemini", "diffusion"],
-        "infra":    ["Vercel", "GCP", "PM2", "GitHub Actions"],
-        "creative": ["AutoCAD", "SketchUp", "Roblox Studio"],
+        "frontend": ["Next.js", "TypeScript"],
+        "backend":  ["Node.js", "Firebase"],
+        "ML/CV":    ["MediaPipe", "Gemini"],
+        "infra":    ["Vercel", "GCP", "PM2"],
+        "creative": ["AutoCAD", "Roblox Studio"],
     }
 
-    building = ["Flora AI", "Flora Vision AR", "HARKAT Photobooth"]
+    building = ["Flora AI", "Flora Vision", "HARKAT"]
 
     @staticmethod
     def motto() -> str:
